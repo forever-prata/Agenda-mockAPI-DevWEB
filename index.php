@@ -25,16 +25,6 @@
           <a class="nav-link" href="cadastrar.php">Cadastros</a>
         </li>
     </ul>
-    <br>
-
-    <button id="btn">aperta</button>
-
-    <div class="col-sm-3">
-        <form method="post" enctype="multipart/form-data" name="form">
-            <input type="text" name="busca">
-            <input type="submit" name="pesquisa">
-        </form>
-    </div>
 
     <br>
     <div class="table-responsive">
